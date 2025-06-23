@@ -1,2 +1,2 @@
 # Multi-Tool-Project
-This web app combines 12 productivity tools in a sleek, responsive interface using HTML, CSS, and JavaScript with integrated APIs and voice features
+A responsive and interactive web application built with HTML, CSS, and JavaScript featuring 12 integrated tools: clock, alarm, stopwatch, calendar, BMI calculator, QR generator, age calculator, weather info, currency converter, calculator, audio/video recorder with voice, and screen recorder. APIs like OpenWeatherMap and ExchangeRate are integrated. The UI is optimized for both desktop and mobile with modern styling and icon suppor
